@@ -1,0 +1,1 @@
+-- Initial MySQL schema placeholder. Add project tables here as requirements are defined.

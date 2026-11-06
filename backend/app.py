@@ -1,0 +1,1 @@
+"""Flask application entry point for the AI Campus Opportunity Agent."""

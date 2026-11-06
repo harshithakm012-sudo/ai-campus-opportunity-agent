@@ -1,0 +1,1 @@
+"""Opportunity recommendation module placeholder."""
